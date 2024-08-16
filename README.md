@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayhampanda
 - 👀 I’m interested in creative design
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning LUA
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me: gabethepandabear@gmail.com
 - 😄 Pronouns:
